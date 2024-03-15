@@ -1,0 +1,4 @@
+﻿Name,FirstName,LastName,Email,AreaCode,ContactNo,JobTitle,ShouldSendSms
+John Doe (Example),John (Example),Doe (Example),example@mail.com,852,12345678,Manager,Yes
+John Doe (Example),John (Example),Doe (Example),example@mail.com,852,12345678,Manager,No
+John Doe (Example),John (Example),Doe (Example),example@mail.com,852,12345678,Manager,Yes
